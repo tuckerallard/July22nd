@@ -1,0 +1,39 @@
+1) public Car()
+
+new Car();
+
+2) public Bean(int weight)
+
+new Bean(120);
+
+3) public Airplane(long maxDistance)
+
+new Airplane(3462346);
+
+4) public Bus(int seats)
+
+new bus(12);
+
+5) public SkiLift(int chairs, float maxSpeed, float maxCapacity)
+
+new SkiLift(2, 60f, 120f);
+
+6) public Gondola(int maxOccupancy)
+
+new Gondola(94);
+
+7) public Data(String[] args)
+
+new Data("Hello");
+
+8) public CelestialObject(Double distanceFromSol)
+
+new CelestialObject(2353.223);
+
+9) public Sun(Double maxSurfaceTemperature)
+
+new Sun(25235234.234234);
+
+10) public Pluto(boolean isPlanetOrNot)
+
+new Pluto(true);
