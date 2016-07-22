@@ -24,7 +24,7 @@ new Gondola(94);
 
 7) public Data(String[] args)
 
-new Data("Hello");
+new Data(new String[] {"Hello", "Hi"});
 
 8) public CelestialObject(Double distanceFromSol)
 
